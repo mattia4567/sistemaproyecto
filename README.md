@@ -47,7 +47,7 @@ SISTEMAPROYECTO/
 ├── LICENSE
 ├── README.md
 ├── Docs/
-│   ├── EEST1_LPR2026_ACT05_ferrari_ulises_Informe_v1.0.0.pdf
+│   ├── InformeEEST1_LPR2026_ACT05_G03_v1_0_0.pdf
 │   └── manuales/
 │       └── manual_programador_v1.0.0.md
 ├── src/
