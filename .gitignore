@@ -1,18 +1,33 @@
+# ==========================================
+# SISTEMAPROYECTO - TMC
+# Archivo: .gitignore
+# ==========================================
 
+# Ejecutables compilados de C++
 *.exe
 *.out
+
+# Archivos objeto generados durante la compilación
 *.o
 *.obj
+
+# Archivos temporales y de depuración
 *.ilk
 *.pdb
 
-
+# Configuración local de Visual Studio Code
 .vscode/
+
+# Directorios generados durante la compilación
 bin/
 build/
+
+# Directorios de compilación de Visual Studio
 Debug/
 Release/
 
-
+# Archivos del sistema operativo Windows
 Thumbs.db
+
+# Archivos del sistema operativo macOS
 .DS_Store
