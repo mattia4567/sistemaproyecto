@@ -1,4 +1,3 @@
-# Proyecto Integrador Anual - LPR 2026
 
 ## Institución
 
