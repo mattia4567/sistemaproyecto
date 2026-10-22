@@ -1,6 +1,7 @@
 /* 
    ====================================================================
    Materia: Laboratorio de Programación (LPR) — 5°
+   E.E.S.T. N° 1 "Eduardo Ader" — Vicente López
    Archivo: src/main.cpp
    Actividad 5: Modelado de datos con Structs y Punteros
    ====================================================================
